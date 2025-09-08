@@ -1,4 +1,4 @@
-                                                                                IMDB Data Analysis
+                                            IMDB Data Analysis
 
 In this project i was interested to get some insights from the data,
 to understand or find some factors that may help a movie to be in IMDB Top 250 list,
