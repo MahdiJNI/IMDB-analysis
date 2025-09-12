@@ -25,3 +25,8 @@ This project is just one of my portfolio projects and the data within was not co
 Terms of use :
 -------
 The dataset has not any commercial purpose but feel free to download and work on for educational purposes.
+
+
+Power BI Report Link of the Project :
+-------
+https://app.powerbi.com/reportEmbed?reportId=9ef0ec89-bb73-4832-a6e9-876426bab81d&autoAuth=true&ctid=7330ba5b-d1f2-4bdc-8616-01f384cf3084
